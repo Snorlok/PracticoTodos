@@ -11,6 +11,6 @@ package com.mycompany.practicotodos;
 public class PracticoTodos {
 
     public static void main(String[] args) {
-        System.out.println("SOY AÑAÑIIIIIN!");             
+        System.out.println("Putos todos!");             
     }
 }
